@@ -1,2 +1,2 @@
 # recognizing-handwritten-digits
-Recognizing handwritten digits using scikit learn
+Recognizing handwritten digits using scikit-learn involves leveraging machine learning to classify and identify digits within images. Typically using the MNIST dataset, images of handwritten numbers are processed, and a k-Nearest Neighbors (KNN) classifier is trained. This model learns the relationships between the images and their corresponding labels, enabling accurate digit classification. After evaluation and testing, the trained model can predict labels for new images, making it a straightforward and effective way to perform handwritten digit recognition.
